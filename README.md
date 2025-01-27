@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 📦 98.4 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,5 +88,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2025 00:46:05 UTC
+ Last Updated on 27/01/2025 00:45:52 UTC
 <!--END_SECTION:waka-->
