@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 99.0 kB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -88,5 +86,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2025 00:56:20 UTC
+ Last Updated on 28/04/2025 00:54:47 UTC
 <!--END_SECTION:waka-->
