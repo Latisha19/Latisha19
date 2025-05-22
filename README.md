@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C540%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C540%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,13 +57,16 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JSON                     23 mins             █████████████████████████   100.00 % 
+HTML                     10 mins             █████████████░░░░░░░░░░░░   50.85 % 
+Other                    5 mins              ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +86,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 00:55:04 UTC
+ Last Updated on 22/05/2025 00:54:44 UTC
 <!--END_SECTION:waka-->
