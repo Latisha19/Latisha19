@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 99.5 kB Used in GitHub's Storage 
  > 
-> 🏆 134 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -88,5 +86,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2025 00:59:33 UTC
+ Last Updated on 26/05/2025 00:56:18 UTC
 <!--END_SECTION:waka-->
