@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 > 📦 100.4 kB Used in GitHub's Storage 
  > 
+> 🏆 155 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -55,17 +57,13 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       46 mins             ███████████░░░░░░░░░░░░░░   42.94 % 
-Binary                   41 mins             ██████████░░░░░░░░░░░░░░░   38.30 % 
-CSHTML                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-ASP.NET                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +83,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 00:50:43 UTC
+ Last Updated on 06/09/2025 00:48:23 UTC
 <!--END_SECTION:waka-->
