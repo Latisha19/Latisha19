@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C820%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C823%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,13 +57,18 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       51 mins             ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Binary                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+HTML                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+CSHTML                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 52 mins        ██████████████████░░░░░░░   72.01 % 
+VS Code                  43 mins             ███████░░░░░░░░░░░░░░░░░░   27.99 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +88,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 00:54:05 UTC
+ Last Updated on 09/09/2025 00:51:43 UTC
 <!--END_SECTION:waka-->
