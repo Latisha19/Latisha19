@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 495.6 kB Used in GitHub's Storage 
+> 📦 531.1 kB Used in GitHub's Storage 
  > 
 > 🏆 170 Contributions in the Year 2025
  > 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -75,11 +75,11 @@ Windows                  15 hrs 13 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-C#                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+C#                       5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+TypeScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -89,5 +89,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 00:58:48 UTC
+ Last Updated on 12/12/2025 00:58:44 UTC
 <!--END_SECTION:waka-->
