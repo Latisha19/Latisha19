@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C166%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C168%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,16 +57,16 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    6 hrs 2 mins        ███████████████░░░░░░░░░░   59.01 % 
-C#                       3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Other                    4 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.29 % 
+C#                       3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
+Markdown                 1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 
 🔥 Editors: 
-Visual Studio            9 hrs 52 mins       ████████████████████████░   96.34 % 
-Obsidian                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Visual Studio            7 hrs 45 mins       ████████████████████░░░░░   81.94 % 
+Obsidian                 1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 
 💻 Operating System: 
-Windows                  10 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +86,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 01:14:51 UTC
+ Last Updated on 13/02/2026 01:18:00 UTC
 <!--END_SECTION:waka-->
