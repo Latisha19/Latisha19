@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C168%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,13 +57,14 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 17 mins        ██████████████████░░░░░░░   73.14 % 
+C#                       28 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +84,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 01:13:21 UTC
+ Last Updated on 24/02/2026 01:11:46 UTC
 <!--END_SECTION:waka-->
