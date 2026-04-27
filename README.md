@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C342%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C343%20hrs%2015%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -91,5 +91,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2026 01:45:21 UTC
+ Last Updated on 27/04/2026 01:49:18 UTC
 <!--END_SECTION:waka-->
