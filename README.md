@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C576%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C581%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,21 +57,21 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    8 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
-Markdown                 5 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-C#                       5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Binary                   2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    9 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.70 % 
+C#                       7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Markdown                 4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Binary                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 20 mins      ███████████░░░░░░░░░░░░░░   42.76 % 
-Obsidian                 5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Fork                     4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-LINQPad8(X64)            1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-MySQLWorkbench           1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Visual Studio            11 hrs 22 mins      ███████████░░░░░░░░░░░░░░   45.52 % 
+Fork                     4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Obsidian                 4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+LINQPad8(X64)            2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+MySQLWorkbench           1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-Windows                  24 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +91,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:46:00 UTC
+ Last Updated on 25/07/2026 01:46:03 UTC
 <!--END_SECTION:waka-->
