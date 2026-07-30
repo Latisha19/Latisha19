@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C253%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -59,21 +59,21 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    9 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
-C#                       8 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.60 % 
-Markdown                 2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Binary                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-ASP.NET                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+C#                       9 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.70 % 
+Other                    9 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.21 % 
+Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Binary                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.21 % 
-Fork                     4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-LINQPad8(X64)            2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Obsidian                 2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-MySQLWorkbench           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Visual Studio            11 hrs 20 mins      ██████████████░░░░░░░░░░░   54.58 % 
+Fork                     4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+LINQPad8(X64)            2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Obsidian                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+MySQLWorkbench           24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-Windows                  20 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:31:20 UTC
+ Last Updated on 30/07/2026 01:23:56 UTC
 <!--END_SECTION:waka-->
