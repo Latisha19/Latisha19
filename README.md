@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C303%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C304%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 677.3 kB Used in GitHub's Storage 
+> 📦 724.3 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2026
+> 🏆 30 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,21 +35,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                153 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-🌆 Daytime                307 commits         █████████████░░░░░░░░░░░░   52.84 % 
-🌃 Evening                112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+🌞 Morning                153 commits         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+🌆 Daytime                309 commits         █████████████░░░░░░░░░░░░   53.00 % 
+🌃 Evening                112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Tuesday                  106 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Wednesday                120 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Thursday                 108 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Saturday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Monday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Tuesday                  106 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Wednesday                122 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Thursday                 108 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Saturday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 ```
 
 
@@ -59,21 +59,21 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    9 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.21 % 
-C#                       6 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Markdown                 3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Binary                   2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Other                    8 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.10 % 
+C#                       5 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Markdown                 4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Binary                   2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-Visual Studio            15 hrs 40 mins      ████████████████░░░░░░░░░   62.02 % 
-Fork                     5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Obsidian                 3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-MySQLWorkbench           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-LINQPad8(X64)            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Visual Studio            12 hrs 27 mins      ██████████████░░░░░░░░░░░   55.49 % 
+Fork                     4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Obsidian                 3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+MySQLWorkbench           1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+LINQPad8(X64)            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-Windows                  25 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 00:40:18 UTC
+ Last Updated on 27/08/2026 05:42:43 UTC
 <!--END_SECTION:waka-->
