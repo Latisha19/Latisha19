@@ -59,21 +59,13 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   40.48 % 
-Markdown                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Other                    58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            2 hrs 16 mins       ██████████████░░░░░░░░░░░   57.22 % 
-Obsidian                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Fork                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-LINQPad8(X64)            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-MySQLWorkbench           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,5 +91,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 02:01:04 UTC
+ Last Updated on 12/09/2026 02:05:55 UTC
 <!--END_SECTION:waka-->
