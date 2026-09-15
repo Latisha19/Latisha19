@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C319%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C319%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -59,13 +59,17 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 24 mins        ██████████████████░░░░░░░   73.81 % 
+C#                       25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Fork                     1 hr 20 mins        █████████████████░░░░░░░░   69.88 % 
+Visual Studio            29 mins             ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Obsidian                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,5 +95,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 02:18:39 UTC
+ Last Updated on 15/09/2026 02:24:21 UTC
 <!--END_SECTION:waka-->
