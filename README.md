@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C319%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C320%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -59,17 +59,20 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 24 mins        ██████████████████░░░░░░░   73.81 % 
-C#                       25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other                    2 hrs 14 mins       ████████████████░░░░░░░░░   65.08 % 
+C#                       47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Binary                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+ASP.NET                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Fork                     1 hr 20 mins        █████████████████░░░░░░░░   69.88 % 
-Visual Studio            29 mins             ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-Obsidian                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Fork                     1 hr 45 mins        █████████████░░░░░░░░░░░░   51.43 % 
+Visual Studio            1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   35.33 % 
+MySQLWorkbench           18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Obsidian                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,5 +98,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 02:24:21 UTC
+ Last Updated on 16/09/2026 02:17:40 UTC
 <!--END_SECTION:waka-->
