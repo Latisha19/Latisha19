@@ -59,21 +59,21 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Markdown                 3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-C#                       2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-CSHTML                   2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Binary                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Other                    3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+CSHTML                   2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+C#                       1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Binary                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.33 % 
-Obsidian                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Fork                     2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-MySQLWorkbench           1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-LINQPad8(X64)            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Visual Studio            5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
+Obsidian                 2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Fork                     2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+MySQLWorkbench           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Windows                  16 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:27:46 UTC
+ Last Updated on 26/09/2026 02:31:00 UTC
 <!--END_SECTION:waka-->
