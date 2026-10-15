@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C350%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C351%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -59,19 +59,19 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       4 hrs 35 mins       ██████████████░░░░░░░░░░░   57.30 % 
-Markdown                 2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-Other                    1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+C#                       3 hrs 41 mins       █████████████████░░░░░░░░   66.29 % 
+Markdown                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 34 mins       █████████████████░░░░░░░░   69.67 % 
-Obsidian                 1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Fork                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-LINQPad8(X64)            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Visual Studio            3 hrs 49 mins       █████████████████░░░░░░░░   68.71 % 
+Obsidian                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Fork                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+LINQPad8(X64)            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Windows                  8 hrs               █████████████████████████   100.00 % 
+Windows                  5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,5 +97,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 02:39:52 UTC
+ Last Updated on 15/10/2026 02:19:50 UTC
 <!--END_SECTION:waka-->
