@@ -59,19 +59,18 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       3 hrs 41 mins       █████████████████░░░░░░░░   66.29 % 
-Markdown                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+C#                       1 hr 58 mins        ███████████████░░░░░░░░░░   58.71 % 
+Markdown                 1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   37.33 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 49 mins       █████████████████░░░░░░░░   68.71 % 
-Obsidian                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Fork                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-LINQPad8(X64)            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Visual Studio            2 hrs 6 mins        ████████████████░░░░░░░░░   62.71 % 
+Obsidian                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   34.11 % 
+LINQPad8(X64)            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Fork                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  5 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,5 +96,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 02:19:50 UTC
+ Last Updated on 16/10/2026 02:11:58 UTC
 <!--END_SECTION:waka-->
