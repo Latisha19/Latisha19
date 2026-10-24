@@ -59,21 +59,20 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 44 mins        ███████████░░░░░░░░░░░░░░   45.93 % 
-C#                       45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Markdown                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Binary                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-ASP.NET                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Other                    1 hr 32 mins        ████████████░░░░░░░░░░░░░   49.39 % 
+Markdown                 42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Binary                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+C#                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+ASP.NET                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 36 mins        ███████████░░░░░░░░░░░░░░   42.43 % 
-Fork                     51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Obsidian                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-MySQLWorkbench           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-LINQPad8(X64)            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Visual Studio            1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   36.13 % 
+Fork                     47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Obsidian                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+MySQLWorkbench           29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 
 💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,5 +98,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 02:30:53 UTC
+ Last Updated on 24/10/2026 02:28:47 UTC
 <!--END_SECTION:waka-->
