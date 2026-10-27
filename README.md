@@ -59,20 +59,19 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 32 mins        ████████████░░░░░░░░░░░░░   49.39 % 
-Markdown                 42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Binary                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-C#                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-ASP.NET                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Other                    43 mins             ███████████░░░░░░░░░░░░░░   45.58 % 
+Markdown                 36 mins             ██████████░░░░░░░░░░░░░░░   38.27 % 
+C#                       14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Text Template            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   36.13 % 
-Fork                     47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Obsidian                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-MySQLWorkbench           29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Obsidian                 36 mins             █████████░░░░░░░░░░░░░░░░   37.96 % 
+Fork                     25 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+MySQLWorkbench           17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Visual Studio            15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,5 +97,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 02:16:15 UTC
+ Last Updated on 27/10/2026 02:53:08 UTC
 <!--END_SECTION:waka-->
