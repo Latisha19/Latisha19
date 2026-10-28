@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C353%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C354%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -59,19 +59,20 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    43 mins             ███████████░░░░░░░░░░░░░░   45.58 % 
-Markdown                 36 mins             ██████████░░░░░░░░░░░░░░░   38.27 % 
-C#                       14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Text Template            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Other                    1 hr 10 mins        ███████████░░░░░░░░░░░░░░   42.35 % 
+Markdown                 1 hr                █████████░░░░░░░░░░░░░░░░   36.27 % 
+C#                       24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Binary                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+ASP.NET                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Obsidian                 36 mins             █████████░░░░░░░░░░░░░░░░   37.96 % 
-Fork                     25 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-MySQLWorkbench           17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Visual Studio            15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Obsidian                 58 mins             █████████░░░░░░░░░░░░░░░░   35.52 % 
+MySQLWorkbench           37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Visual Studio            37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Fork                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,5 +98,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 02:53:08 UTC
+ Last Updated on 28/10/2026 03:00:40 UTC
 <!--END_SECTION:waka-->
