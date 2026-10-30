@@ -59,20 +59,20 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        ███████████░░░░░░░░░░░░░░   43.84 % 
-Markdown                 1 hr                █████████░░░░░░░░░░░░░░░░   34.69 % 
-C#                       26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Binary                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-ASP.NET                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    43 mins             ███████████░░░░░░░░░░░░░░   44.83 % 
+Markdown                 31 mins             ████████░░░░░░░░░░░░░░░░░   32.56 % 
+C#                       11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Binary                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+ASP.NET                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-Obsidian                 59 mins             ████████░░░░░░░░░░░░░░░░░   33.98 % 
-Visual Studio            39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Fork                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-MySQLWorkbench           37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Obsidian                 30 mins             ████████░░░░░░░░░░░░░░░░░   31.59 % 
+Visual Studio            23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Fork                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+MySQLWorkbench           20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,5 +98,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Latisha19/Latisha19/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 03:27:01 UTC
+ Last Updated on 30/10/2026 03:29:16 UTC
 <!--END_SECTION:waka-->
